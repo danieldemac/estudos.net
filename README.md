@@ -1,6 +1,6 @@
 <h1 align="center"> Estudos .NET C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Dan-C#" height="30" width="40"></h1>
 
-Olá! Bem-vindo ao meu repositório de estudos em .NET C#. Aqui você encontrará diversos projetos e exercícios que estou desenvolvendo para aprimorar minhas habilidades em .NET e C#.
+Olá! Bem-vindo ao meu repositório de estudos em .NET C#.
 
 ## Sobre o Repositório
 
