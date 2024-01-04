@@ -10,16 +10,14 @@ namespace exemplofundamentos.Models
         
         private string? _nome;
         private int _idade;
+        private string _sobrenome;
+        private string _nomecompleto;
 
 
         public string Nome 
         { 
-           get
-           {
+           get => _nome.ToUpper();
 
-                return _nome.ToUpper();
-
-           }
 
            set
            {
@@ -31,33 +29,32 @@ namespace exemplofundamentos.Models
            }
         }
 
+        public string Sobrenome 
+        { 
+            get => _sobrenome.ToUpper(); 
+            set => _sobrenome = value;
+        }
+
+        public string NomeCompleto => $"{Nome} {Sobrenome}";
 
         public int Idade 
         { 
-            get
-            {
-                return _idade;
-            }
+            get => _idade;
         
             set
             {
-                if (value <= 0)
+                if (value < 0)
                 {
-                    throw new ArgumentException("Idade deve ser maior que zero");
+                    throw new ArgumentException("Idade deve ser um valor positivo");
                 }
                 _idade = value;
             }
         
         }
 
-        public Pessoa(string nome, int idade)
+         public void Apresentar()
         {
-            _nome = nome ?? throw new ArgumentNullException(nameof(nome), "O nome não pode ser nulo");
-            Idade = idade;
-        }
-        public void Apresentar()
-        {
-            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos.");
+            Console.WriteLine($"Olá, meu nome é {NomeCompleto} e tenho {Idade} anos.");
         }
     }
 }
