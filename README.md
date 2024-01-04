@@ -11,5 +11,6 @@ Este repositório é dedicado aos meus estudos pessoais em .NET e C#. Estou cons
 
 Se você tiver alguma dúvida ou comentário, pode me encontrar aqui no GitHub @danieldemac.
 
-Obrigado pela visita!
+Obrigado pela visita! 
+<p align="center"><img width="64" height="64" src="https://img.icons8.com/external-filled-line-rakhmat-setiawan/64/external-autumn-thanksgiving-filled-line-filled-line-rakhmat-setiawan.png" alt="external-autumn-thanksgiving-filled-line-filled-line-rakhmat-setiawan"/></p>
 
