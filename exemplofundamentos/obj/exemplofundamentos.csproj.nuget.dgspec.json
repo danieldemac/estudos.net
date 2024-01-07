@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.cabral\\Desktop\\Estudos.NET-main\\exemplofundamentos\\exemplofundamentos.csproj": {}
+    "C:\\Users\\arant\\Desktop\\exemplofundamentos\\exemplofundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.cabral\\Desktop\\Estudos.NET-main\\exemplofundamentos\\exemplofundamentos.csproj": {
+    "C:\\Users\\arant\\Desktop\\exemplofundamentos\\exemplofundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.cabral\\Desktop\\Estudos.NET-main\\exemplofundamentos\\exemplofundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\arant\\Desktop\\exemplofundamentos\\exemplofundamentos.csproj",
         "projectName": "exemplofundamentos",
-        "projectPath": "C:\\Users\\daniel.cabral\\Desktop\\Estudos.NET-main\\exemplofundamentos\\exemplofundamentos.csproj",
-        "packagesPath": "C:\\Users\\daniel.cabral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.cabral\\Desktop\\Estudos.NET-main\\exemplofundamentos\\obj\\",
+        "projectPath": "C:\\Users\\arant\\Desktop\\exemplofundamentos\\exemplofundamentos.csproj",
+        "packagesPath": "C:\\Users\\arant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arant\\Desktop\\exemplofundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daniel.cabral\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\arant\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
